@@ -8,7 +8,7 @@ You can install the development version from GitHub:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("droid775/gi")
+devtools::install_github("droid775/GIcalculator")
 ```
 
 ## Usage
