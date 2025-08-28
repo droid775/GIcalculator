@@ -1,4 +1,4 @@
-# giopt
+# Gini Index Calculator
 
 A simple utility for Gini index calculation.
 
@@ -8,7 +8,7 @@ You can install the development version from GitHub:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("yourusername/gi")
+devtools::install_github("droid775/gi")
 ```
 
 ## Usage
