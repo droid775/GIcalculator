@@ -17,7 +17,7 @@ devtools::install_github("droid775/GIcalculator")
 ### Gini Index Calculation
 
 ```r
-library(giopt)
+library(GIcalculator)
 
 # Calculate Gini index for a vector
 vec <- c(1, 2, 3, 4, 5)
