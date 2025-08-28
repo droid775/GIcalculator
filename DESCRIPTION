@@ -1,9 +1,9 @@
-Package: gi
+Package: GIcalculator
 Type: Package
 Title: Gini Index calculator
 Version: 0.1.0
-Author: Your Name
-Maintainer: Your Name <your.email@example.com>
+Author: droid775
+Maintainer: droid775 <ax850xt@example.com>
 Description: A simple utility for Gini index calculation.
 License: MIT + file LICENSE
 Encoding: UTF-8
